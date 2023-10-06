@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Arda - aka ADB 👋</h1>
 <h3 align="center">Student, passionate, open-to-learn developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Quantum Quake Studios**
-
 - 🌱 I’m currently learning **Javascript**
 
 - 👀 I’m interested in **Web Development**
