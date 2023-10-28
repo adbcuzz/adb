@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👀 I’m interested in **Web Development**
-
 - 👨‍💻 All of my projects are available at [https://quantumquake.tebex.io/](https://quantumquake.tebex.io/)
 
 - 📫 How to reach me **Discord: adbcuzz**
